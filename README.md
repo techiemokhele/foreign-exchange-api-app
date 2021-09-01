@@ -9,3 +9,6 @@ Update values on amount change.
 Swap country rates.
 
 Heres the link to preview the web app: https://techiemokhele.github.io/foreign-exchange-api-app/
+
+![image](https://user-images.githubusercontent.com/67394147/131593350-81862a11-7196-4325-8745-3ae385285d1f.png)
+
